@@ -24,6 +24,7 @@
 ### 0. N queens
 
 ![Judit Polgar](../images/Judit-photo1_602x433.jpeg)
+
 Chess grandmaster Judit Polgár, the strongest female chess player of all time
 
 The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard. Write a program that solves the N queens problem.
